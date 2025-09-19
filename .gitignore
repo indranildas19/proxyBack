@@ -1,0 +1,41 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# SSL certs
+certs/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# OS files
+.DS_Store
+
+# IDE files
+.vscode/
+.idea/
+
+# Build output
+dist/
+
+# Coverage
+coverage/
+
+# Misc
+*.tgz
+
+# Optional: ignore public assets if needed
+# public/
